@@ -1,0 +1,2 @@
+use recursion
+start at the bottom, recursively compare right and left child to parent until root reached
